@@ -20,7 +20,10 @@ avicit-platform6-cloud-vue\vue.config.js
 
 avicit-platform6-cloud-vue\src\views\avic\pt\cloud
 
-四、代码合并
+四、菜单配置地址
+http://localhost:3000/menu/manage
+
+五、代码合并
 
 由于不能使用统一的代码仓库，暂定每周五下午4点，将本周开发内容提交给任旭
 

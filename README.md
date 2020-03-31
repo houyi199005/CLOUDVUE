@@ -18,6 +18,10 @@ avicit-platform6-cloud-vue\src\views\avic\pt\cloud
 
 
 
+
+项目的测试页
+avicit-platform6-cloud-vue\src\views\avic\pt\demo
+
 学习资料：
 
 https://cn.vuejs.org/v2/guide/

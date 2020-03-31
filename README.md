@@ -18,4 +18,13 @@ avicit-platform6-cloud-vue\src\views\avic\pt\cloud
 
 
 
-推荐使用VS Code开发
+学习资料：
+
+https://cn.vuejs.org/v2/guide/
+
+https://www.antdv.com/docs/vue/introduce-cn/
+
+
+
+
+推荐开发工具使用VS Code开发
